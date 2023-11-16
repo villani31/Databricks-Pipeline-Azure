@@ -2,6 +2,6 @@
 
 Pipeline de ingestão e processamento de dados:
 
-** Cloud Azure
-** Data Factory
-** Databricks
+* Cloud Azure
+* Data Factory
+* Databricks
